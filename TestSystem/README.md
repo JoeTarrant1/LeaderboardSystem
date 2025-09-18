@@ -1,1 +1,0 @@
-It is recommended you write a Test application to check your code works as expected when you run through the different methods.

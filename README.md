@@ -1,4 +1,4 @@
-# LeaderboardSystem
+# Leaderboard System
 
 This program was part of a paired programming project that was set to us as coursework. It was written using the paired programming technique where one of us would code and the other would oversee, we would switch periodically.
 
